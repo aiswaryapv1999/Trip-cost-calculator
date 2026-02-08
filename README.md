@@ -1,4 +1,4 @@
-### Trip Cost Calculator ###
+### Trip Cost Calculator - Python ###
 ## Project Description
 
 The Trip Cost Calculator is a Python program designed to calculate the total cost of a trip by considering hotel stay, flight destination, rental car duration, and additional spending money. The program performs calculations based on user input using basic Python concepts.
